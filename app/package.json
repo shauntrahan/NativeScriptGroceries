@@ -1,0 +1,6 @@
+{
+  "main": "app.js",
+  "dependencies": {
+    "email-validator": "^1.0.3"
+  }
+}
